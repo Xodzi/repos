@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Excel DNA/1.0.0": {
+        "dependencies": {
+          "ExcelDna.AddIn": "1.7.0",
+          "Microsoft.Web.WebView2": "1.0.2210.55"
+        },
+        "runtime": {
+          "Excel DNA.dll": {}
+        }
+      },
+      "ExcelDna.AddIn/1.7.0": {
+        "dependencies": {
+          "ExcelDna.Integration": "1.7.0"
+        }
+      },
+      "ExcelDna.Integration/1.7.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/ExcelDna.Integration.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.7.0.11"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.2210.55": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.2210.55",
+            "fileVersion": "1.0.2210.55"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.2210.55",
+            "fileVersion": "1.0.2210.55"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.2210.55",
+            "fileVersion": "1.0.2210.55"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.2210.55"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.2210.55"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.2210.55"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Excel DNA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExcelDna.AddIn/1.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P4dkw3kKCvjppisk+O9ixBtNRSQafGuY0n7KiOdRFU+Ib2uK3EzL+U6d1nnPBhv1V6NyHSatgjIPIStG5ekEVg==",
+      "path": "exceldna.addin/1.7.0",
+      "hashPath": "exceldna.addin.1.7.0.nupkg.sha512"
+    },
+    "ExcelDna.Integration/1.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-foruOl8aMslv4396rRDZDSNAvJMQe0ftjwJ/Ubvc4vZNPChsenFNeM5JrTk3og/BNNckgLJ1FwEkk7Np2X2veg==",
+      "path": "exceldna.integration/1.7.0",
+      "hashPath": "exceldna.integration.1.7.0.nupkg.sha512"
+    },
+    "Microsoft.Web.WebView2/1.0.2210.55": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pb5kuzl8TQm+ztzOnOm/qX75DXXjOQMdKlcs2hyizbZobiGzJcMcIhpmMmgg1cTGYwof2fVhlC809YScvDbm3w==",
+      "path": "microsoft.web.webview2/1.0.2210.55",
+      "hashPath": "microsoft.web.webview2.1.0.2210.55.nupkg.sha512"
+    }
+  }
+}

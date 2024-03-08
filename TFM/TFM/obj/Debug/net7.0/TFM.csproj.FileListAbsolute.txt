@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\TFM\TFM\bin\Debug\net7.0\TFM.exe
+C:\Users\ivank\source\repos\TFM\TFM\bin\Debug\net7.0\TFM.deps.json
+C:\Users\ivank\source\repos\TFM\TFM\bin\Debug\net7.0\TFM.runtimeconfig.json
+C:\Users\ivank\source\repos\TFM\TFM\bin\Debug\net7.0\TFM.dll
+C:\Users\ivank\source\repos\TFM\TFM\bin\Debug\net7.0\TFM.pdb
+C:\Users\ivank\source\repos\TFM\TFM\obj\Debug\net7.0\TFM.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\TFM\TFM\obj\Debug\net7.0\TFM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\TFM\TFM\obj\Debug\net7.0\TFM.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\TFM\TFM\obj\Debug\net7.0\TFM.AssemblyInfo.cs
+C:\Users\ivank\source\repos\TFM\TFM\obj\Debug\net7.0\TFM.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\TFM\TFM\obj\Debug\net7.0\TFM.dll
+C:\Users\ivank\source\repos\TFM\TFM\obj\Debug\net7.0\refint\TFM.dll
+C:\Users\ivank\source\repos\TFM\TFM\obj\Debug\net7.0\TFM.pdb
+C:\Users\ivank\source\repos\TFM\TFM\obj\Debug\net7.0\TFM.genruntimeconfig.cache
+C:\Users\ivank\source\repos\TFM\TFM\obj\Debug\net7.0\ref\TFM.dll

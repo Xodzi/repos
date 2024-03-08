@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\Refactor\Refactor\bin\Debug\net7.0\Refactor.exe
+C:\Users\ivank\source\repos\Refactor\Refactor\bin\Debug\net7.0\Refactor.deps.json
+C:\Users\ivank\source\repos\Refactor\Refactor\bin\Debug\net7.0\Refactor.runtimeconfig.json
+C:\Users\ivank\source\repos\Refactor\Refactor\bin\Debug\net7.0\Refactor.dll
+C:\Users\ivank\source\repos\Refactor\Refactor\bin\Debug\net7.0\Refactor.pdb
+C:\Users\ivank\source\repos\Refactor\Refactor\obj\Debug\net7.0\Refactor.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Refactor\Refactor\obj\Debug\net7.0\Refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\Refactor\Refactor\obj\Debug\net7.0\Refactor.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\Refactor\Refactor\obj\Debug\net7.0\Refactor.AssemblyInfo.cs
+C:\Users\ivank\source\repos\Refactor\Refactor\obj\Debug\net7.0\Refactor.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\Refactor\Refactor\obj\Debug\net7.0\Refactor.dll
+C:\Users\ivank\source\repos\Refactor\Refactor\obj\Debug\net7.0\refint\Refactor.dll
+C:\Users\ivank\source\repos\Refactor\Refactor\obj\Debug\net7.0\Refactor.pdb
+C:\Users\ivank\source\repos\Refactor\Refactor\obj\Debug\net7.0\Refactor.genruntimeconfig.cache
+C:\Users\ivank\source\repos\Refactor\Refactor\obj\Debug\net7.0\ref\Refactor.dll

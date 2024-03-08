@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\bin\Debug\net6.0\Code_Wars_Battleship.exe
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\bin\Debug\net6.0\Code_Wars_Battleship.deps.json
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\bin\Debug\net6.0\Code_Wars_Battleship.runtimeconfig.json
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\bin\Debug\net6.0\Code_Wars_Battleship.dll
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\bin\Debug\net6.0\Code_Wars_Battleship.pdb
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\obj\Debug\net6.0\Code_Wars_Battleship.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\obj\Debug\net6.0\Code_Wars_Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\obj\Debug\net6.0\Code_Wars_Battleship.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\obj\Debug\net6.0\Code_Wars_Battleship.AssemblyInfo.cs
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\obj\Debug\net6.0\Code_Wars_Battleship.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\obj\Debug\net6.0\Code_Wars_Battleship.dll
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\obj\Debug\net6.0\refint\Code_Wars_Battleship.dll
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\obj\Debug\net6.0\Code_Wars_Battleship.pdb
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\obj\Debug\net6.0\Code_Wars_Battleship.genruntimeconfig.cache
+C:\Users\ivank\source\repos\Code_Wars_Battleship\Code_Wars_Battleship\obj\Debug\net6.0\ref\Code_Wars_Battleship.dll

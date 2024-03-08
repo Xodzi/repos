@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Code_Wars_Approved_Calculator/1.0.0": {
+        "runtime": {
+          "Code_Wars_Approved_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Code_Wars_Approved_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

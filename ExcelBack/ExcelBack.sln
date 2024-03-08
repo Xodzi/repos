@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelBack", "ExcelBack\ExcelBack.csproj", "{DCE13939-52AD-4EF1-A217-4BF255363D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE13939-52AD-4EF1-A217-4BF255363D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE13939-52AD-4EF1-A217-4BF255363D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE13939-52AD-4EF1-A217-4BF255363D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE13939-52AD-4EF1-A217-4BF255363D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5852D96C-089C-44FF-A0D8-F0EF1A8273BA}
+	EndGlobalSection
+EndGlobal

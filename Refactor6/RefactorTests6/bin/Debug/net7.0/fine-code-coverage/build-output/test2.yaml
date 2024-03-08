@@ -1,0 +1,12 @@
+CustomerName: Alice
+CustomerBonus: 20
+GoodsTotalCount: 3
+# ID: NAME TYPE(REG/SAL/SPO)
+1: Laptop REG
+2: Smartphone SAL
+3: Headphones SPO
+ItemsTotalCount: 3
+# ID: GID PRICE QTY
+1: 1 800 1
+2: 2 500 2
+3: 3 100 5

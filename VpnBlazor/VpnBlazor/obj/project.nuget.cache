@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kI58KhYM7QFnmCW4bPJefv1/2bjaPVBiCgSei1sclif37VgnUzfRsC61eRmUcVHSmYF+BC25N3SBMc6ZRq1XbQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ivank\\source\\repos\\VpnBlazor\\VpnBlazor\\VpnBlazor.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Для некоторых целевых платформ отсутствует требуемая версия, несмотря на то, что указана платформа: net6.8-maccatalyst."
+    }
+  ]
+}

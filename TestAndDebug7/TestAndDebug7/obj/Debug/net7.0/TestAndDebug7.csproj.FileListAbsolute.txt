@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\bin\Debug\net7.0\TestAndDebug7.deps.json
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\bin\Debug\net7.0\TestAndDebug7.runtimeconfig.json
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\obj\Debug\net7.0\TestAndDebug7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\obj\Debug\net7.0\TestAndDebug7.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\obj\Debug\net7.0\TestAndDebug7.AssemblyInfo.cs
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\obj\Debug\net7.0\TestAndDebug7.genruntimeconfig.cache
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\bin\Debug\net7.0\TestAndDebug7.exe
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\bin\Debug\net7.0\TestAndDebug7.dll
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\bin\Debug\net7.0\TestAndDebug7.pdb
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\obj\Debug\net7.0\TestAndDebug7.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\obj\Debug\net7.0\TestAndDebug7.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\obj\Debug\net7.0\TestAndDebug7.dll
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\obj\Debug\net7.0\refint\TestAndDebug7.dll
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\obj\Debug\net7.0\TestAndDebug7.pdb
+C:\Users\ivank\source\repos\TestAndDebug7\TestAndDebug7\obj\Debug\net7.0\ref\TestAndDebug7.dll

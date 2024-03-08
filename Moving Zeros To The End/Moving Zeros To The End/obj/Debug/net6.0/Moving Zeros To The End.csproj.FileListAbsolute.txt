@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\bin\Debug\net6.0\Moving Zeros To The End.exe
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\bin\Debug\net6.0\Moving Zeros To The End.deps.json
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\bin\Debug\net6.0\Moving Zeros To The End.runtimeconfig.json
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\bin\Debug\net6.0\Moving Zeros To The End.dll
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\bin\Debug\net6.0\Moving Zeros To The End.pdb
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.AssemblyInfo.cs
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.dll
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\net6.0\refint\Moving Zeros To The End.dll
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.pdb
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\net6.0\Moving Zeros To The End.genruntimeconfig.cache
+C:\Users\ivank\source\repos\Moving Zeros To The End\Moving Zeros To The End\obj\Debug\net6.0\ref\Moving Zeros To The End.dll

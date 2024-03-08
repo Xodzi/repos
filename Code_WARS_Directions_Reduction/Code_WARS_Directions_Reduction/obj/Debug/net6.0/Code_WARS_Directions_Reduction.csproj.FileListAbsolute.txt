@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\bin\Debug\net6.0\Code_WARS_Directions_Reduction.exe
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\bin\Debug\net6.0\Code_WARS_Directions_Reduction.deps.json
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\bin\Debug\net6.0\Code_WARS_Directions_Reduction.runtimeconfig.json
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\bin\Debug\net6.0\Code_WARS_Directions_Reduction.dll
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\bin\Debug\net6.0\Code_WARS_Directions_Reduction.pdb
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\obj\Debug\net6.0\Code_WARS_Directions_Reduction.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\obj\Debug\net6.0\Code_WARS_Directions_Reduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\obj\Debug\net6.0\Code_WARS_Directions_Reduction.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\obj\Debug\net6.0\Code_WARS_Directions_Reduction.AssemblyInfo.cs
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\obj\Debug\net6.0\Code_WARS_Directions_Reduction.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\obj\Debug\net6.0\Code_WARS_Directions_Reduction.dll
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\obj\Debug\net6.0\refint\Code_WARS_Directions_Reduction.dll
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\obj\Debug\net6.0\Code_WARS_Directions_Reduction.pdb
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\obj\Debug\net6.0\Code_WARS_Directions_Reduction.genruntimeconfig.cache
+C:\Users\ivank\source\repos\Code_WARS_Directions_Reduction\Code_WARS_Directions_Reduction\obj\Debug\net6.0\ref\Code_WARS_Directions_Reduction.dll

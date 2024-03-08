@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moving Zeros To The End", "Moving Zeros To The End\Moving Zeros To The End.csproj", "{D43BE383-AEF0-4456-A652-044E01037FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43BE383-AEF0-4456-A652-044E01037FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43BE383-AEF0-4456-A652-044E01037FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43BE383-AEF0-4456-A652-044E01037FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43BE383-AEF0-4456-A652-044E01037FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D38D3D46-D4E8-4F4E-A977-3DC9BD05EEE8}
+	EndGlobalSection
+EndGlobal

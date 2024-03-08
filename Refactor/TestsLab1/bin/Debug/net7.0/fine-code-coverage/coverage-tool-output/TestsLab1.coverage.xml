@@ -1,0 +1,968 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.7876000000000001" branch-rate="0.7082999999999999" version="1.9" timestamp="1708905551" lines-covered="204" lines-valid="259" branches-covered="17" branches-valid="24">
+  <sources>
+    <source>C:\Users\ivank\</source>
+  </sources>
+  <packages>
+    <package name="Refactor" line-rate="0.7715000000000001" branch-rate="0.6666" complexity="69">
+      <classes>
+        <class name="Program" filename="source\repos\Refactor\Refactor\Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;Main&gt;$" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="False" />
+                <line number="8" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
+                <line number="26" hits="0" branch="False" />
+                <line number="27" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="False" />
+            <line number="8" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="27" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="Customer" filename="source\repos\Refactor\Refactor\Program.cs" line-rate="0.7692" branch-rate="1" complexity="6">
+          <methods>
+            <method name="getName" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="45" hits="0" branch="False" />
+                <line number="46" hits="0" branch="False" />
+                <line number="47" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="getBonus" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="49" hits="0" branch="False" />
+                <line number="50" hits="0" branch="False" />
+                <line number="51" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="receiveBonus" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="53" hits="11" branch="False" />
+                <line number="54" hits="11" branch="False" />
+                <line number="55" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name="useBonus" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="57" hits="8" branch="False" />
+                <line number="59" hits="8" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="12" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="60" hits="6" branch="False" />
+                <line number="61" hits="6" branch="False" />
+                <line number="62" hits="6" branch="False" />
+                <line number="63" hits="6" branch="False" />
+                <line number="65" hits="2" branch="False" />
+                <line number="66" hits="2" branch="False" />
+                <line number="67" hits="2" branch="False" />
+                <line number="68" hits="2" branch="False" />
+                <line number="69" hits="8" branch="False" />
+                <line number="70" hits="8" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="39" hits="11" branch="False" />
+                <line number="40" hits="11" branch="False" />
+                <line number="41" hits="11" branch="False" />
+                <line number="42" hits="11" branch="False" />
+                <line number="43" hits="11" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="45" hits="0" branch="False" />
+            <line number="46" hits="0" branch="False" />
+            <line number="47" hits="0" branch="False" />
+            <line number="49" hits="0" branch="False" />
+            <line number="50" hits="0" branch="False" />
+            <line number="51" hits="0" branch="False" />
+            <line number="53" hits="11" branch="False" />
+            <line number="54" hits="11" branch="False" />
+            <line number="55" hits="11" branch="False" />
+            <line number="57" hits="8" branch="False" />
+            <line number="59" hits="8" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="12" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="60" hits="6" branch="False" />
+            <line number="61" hits="6" branch="False" />
+            <line number="62" hits="6" branch="False" />
+            <line number="63" hits="6" branch="False" />
+            <line number="65" hits="2" branch="False" />
+            <line number="66" hits="2" branch="False" />
+            <line number="67" hits="2" branch="False" />
+            <line number="68" hits="2" branch="False" />
+            <line number="69" hits="8" branch="False" />
+            <line number="70" hits="8" branch="False" />
+            <line number="39" hits="11" branch="False" />
+            <line number="40" hits="11" branch="False" />
+            <line number="41" hits="11" branch="False" />
+            <line number="42" hits="11" branch="False" />
+            <line number="43" hits="11" branch="False" />
+          </lines>
+        </class>
+        <class name="Bill" filename="source\repos\Refactor\Refactor\Program.cs" line-rate="0.8887999999999999" branch-rate="1" complexity="8">
+          <methods>
+            <method name="get__items" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="75" hits="44" branch="False" />
+              </lines>
+            </method>
+            <method name="get__customer" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="76" hits="44" branch="False" />
+              </lines>
+            </method>
+            <method name="get__view" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="77" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="get_TotalAmount" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="79" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="get_TotalBonus" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="81" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="addGoods" signature="(Item)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="89" hits="22" branch="False" />
+                <line number="90" hits="22" branch="False" />
+                <line number="91" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="Process" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="200" hits="11" branch="False" />
+                <line number="201" hits="11" branch="False" />
+                <line number="202" hits="11" branch="False" />
+                <line number="203" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Customer,Refactor.IView)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="82" hits="11" branch="False" />
+                <line number="83" hits="11" branch="False" />
+                <line number="84" hits="11" branch="False" />
+                <line number="85" hits="11" branch="False" />
+                <line number="86" hits="11" branch="False" />
+                <line number="87" hits="11" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="75" hits="44" branch="False" />
+            <line number="76" hits="44" branch="False" />
+            <line number="77" hits="22" branch="False" />
+            <line number="79" hits="0" branch="False" />
+            <line number="81" hits="0" branch="False" />
+            <line number="89" hits="22" branch="False" />
+            <line number="90" hits="22" branch="False" />
+            <line number="91" hits="22" branch="False" />
+            <line number="200" hits="11" branch="False" />
+            <line number="201" hits="11" branch="False" />
+            <line number="202" hits="11" branch="False" />
+            <line number="203" hits="11" branch="False" />
+            <line number="82" hits="11" branch="False" />
+            <line number="83" hits="11" branch="False" />
+            <line number="84" hits="11" branch="False" />
+            <line number="85" hits="11" branch="False" />
+            <line number="86" hits="11" branch="False" />
+            <line number="87" hits="11" branch="False" />
+          </lines>
+        </class>
+        <class name="Item" filename="source\repos\Refactor\Refactor\Program.cs" line-rate="1" branch-rate="1" complexity="7">
+          <methods>
+            <method name="getQuantity" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="302" hits="44" branch="False" />
+                <line number="303" hits="44" branch="False" />
+                <line number="304" hits="44" branch="False" />
+              </lines>
+            </method>
+            <method name="getPrice" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="306" hits="44" branch="False" />
+                <line number="307" hits="44" branch="False" />
+                <line number="308" hits="44" branch="False" />
+              </lines>
+            </method>
+            <method name="getGoods" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="310" hits="44" branch="False" />
+                <line number="311" hits="44" branch="False" />
+                <line number="312" hits="44" branch="False" />
+              </lines>
+            </method>
+            <method name="GetBonus" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="314" hits="22" branch="False" />
+                <line number="315" hits="22" branch="False" />
+                <line number="316" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="GetDiscount" signature="(Customer)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="318" hits="22" branch="False" />
+                <line number="319" hits="22" branch="False" />
+                <line number="320" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="GetSum" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="322" hits="22" branch="False" />
+                <line number="323" hits="22" branch="False" />
+                <line number="324" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Goods,System.Int32,System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="295" hits="22" branch="False" />
+                <line number="296" hits="22" branch="False" />
+                <line number="297" hits="22" branch="False" />
+                <line number="298" hits="22" branch="False" />
+                <line number="299" hits="22" branch="False" />
+                <line number="300" hits="22" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="302" hits="44" branch="False" />
+            <line number="303" hits="44" branch="False" />
+            <line number="304" hits="44" branch="False" />
+            <line number="306" hits="44" branch="False" />
+            <line number="307" hits="44" branch="False" />
+            <line number="308" hits="44" branch="False" />
+            <line number="310" hits="44" branch="False" />
+            <line number="311" hits="44" branch="False" />
+            <line number="312" hits="44" branch="False" />
+            <line number="314" hits="22" branch="False" />
+            <line number="315" hits="22" branch="False" />
+            <line number="316" hits="22" branch="False" />
+            <line number="318" hits="22" branch="False" />
+            <line number="319" hits="22" branch="False" />
+            <line number="320" hits="22" branch="False" />
+            <line number="322" hits="22" branch="False" />
+            <line number="323" hits="22" branch="False" />
+            <line number="324" hits="22" branch="False" />
+            <line number="295" hits="22" branch="False" />
+            <line number="296" hits="22" branch="False" />
+            <line number="297" hits="22" branch="False" />
+            <line number="298" hits="22" branch="False" />
+            <line number="299" hits="22" branch="False" />
+            <line number="300" hits="22" branch="False" />
+          </lines>
+        </class>
+        <class name="Goods" filename="source\repos\Refactor\Refactor\Program.cs" line-rate="0.7" branch-rate="1" complexity="6">
+          <methods>
+            <method name="getTitle" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="347" hits="44" branch="False" />
+                <line number="348" hits="44" branch="False" />
+                <line number="349" hits="44" branch="False" />
+              </lines>
+            </method>
+            <method name="GetBonus" signature="(System.Int32,System.Double)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="351" hits="0" branch="False" />
+                <line number="352" hits="0" branch="False" />
+                <line number="366" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="GetDiscount" signature="(System.Int32,System.Double,Customer)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="368" hits="0" branch="False" />
+                <line number="369" hits="0" branch="False" />
+                <line number="401" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="GetSum" signature="(System.Int32,System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="403" hits="27" branch="False" />
+                <line number="404" hits="27" branch="False" />
+                <line number="405" hits="27" branch="False" />
+              </lines>
+            </method>
+            <method name="GetUsedBonus" signature="(System.Double,Customer)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="407" hits="8" branch="False" />
+                <line number="408" hits="8" branch="False" />
+                <line number="409" hits="8" branch="False" />
+                <line number="410" hits="8" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="334" hits="22" branch="False" />
+                <line number="335" hits="22" branch="False" />
+                <line number="336" hits="22" branch="False" />
+                <line number="337" hits="22" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="347" hits="44" branch="False" />
+            <line number="348" hits="44" branch="False" />
+            <line number="349" hits="44" branch="False" />
+            <line number="351" hits="0" branch="False" />
+            <line number="352" hits="0" branch="False" />
+            <line number="366" hits="0" branch="False" />
+            <line number="368" hits="0" branch="False" />
+            <line number="369" hits="0" branch="False" />
+            <line number="401" hits="0" branch="False" />
+            <line number="403" hits="27" branch="False" />
+            <line number="404" hits="27" branch="False" />
+            <line number="405" hits="27" branch="False" />
+            <line number="407" hits="8" branch="False" />
+            <line number="408" hits="8" branch="False" />
+            <line number="409" hits="8" branch="False" />
+            <line number="410" hits="8" branch="False" />
+            <line number="334" hits="22" branch="False" />
+            <line number="335" hits="22" branch="False" />
+            <line number="336" hits="22" branch="False" />
+            <line number="337" hits="22" branch="False" />
+          </lines>
+        </class>
+        <class name="RegularGoods" filename="source\repos\Refactor\Refactor\Program.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="GetBonus" signature="(System.Int32,System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="418" hits="11" branch="False" />
+                <line number="419" hits="11" branch="False" />
+                <line number="420" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name="GetDiscount" signature="(System.Int32,System.Double,Customer)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="422" hits="11" branch="False" />
+                <line number="423" hits="11" branch="False" />
+                <line number="424" hits="11" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="17" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="425" hits="5" branch="False" />
+                <line number="426" hits="5" branch="False" />
+                <line number="427" hits="5" branch="False" />
+                <line number="428" hits="5" branch="False" />
+                <line number="430" hits="5" branch="False" />
+                <line number="431" hits="5" branch="False" />
+                <line number="432" hits="11" branch="False" />
+                <line number="433" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="414" hits="11" branch="False" />
+                <line number="415" hits="11" branch="False" />
+                <line number="416" hits="11" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="418" hits="11" branch="False" />
+            <line number="419" hits="11" branch="False" />
+            <line number="420" hits="11" branch="False" />
+            <line number="422" hits="11" branch="False" />
+            <line number="423" hits="11" branch="False" />
+            <line number="424" hits="11" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="17" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="425" hits="5" branch="False" />
+            <line number="426" hits="5" branch="False" />
+            <line number="427" hits="5" branch="False" />
+            <line number="428" hits="5" branch="False" />
+            <line number="430" hits="5" branch="False" />
+            <line number="431" hits="5" branch="False" />
+            <line number="432" hits="11" branch="False" />
+            <line number="433" hits="11" branch="False" />
+            <line number="414" hits="11" branch="False" />
+            <line number="415" hits="11" branch="False" />
+            <line number="416" hits="11" branch="False" />
+          </lines>
+        </class>
+        <class name="SpecialGoods" filename="source\repos\Refactor\Refactor\Program.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="GetBonus" signature="(System.Int32,System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="441" hits="4" branch="False" />
+                <line number="442" hits="4" branch="False" />
+                <line number="443" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="GetDiscount" signature="(System.Int32,System.Double,Customer)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="445" hits="4" branch="False" />
+                <line number="446" hits="4" branch="False" />
+                <line number="447" hits="4" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="18" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="448" hits="1" branch="False" />
+                <line number="449" hits="4" branch="False" />
+                <line number="450" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="437" hits="4" branch="False" />
+                <line number="438" hits="4" branch="False" />
+                <line number="439" hits="4" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="441" hits="4" branch="False" />
+            <line number="442" hits="4" branch="False" />
+            <line number="443" hits="4" branch="False" />
+            <line number="445" hits="4" branch="False" />
+            <line number="446" hits="4" branch="False" />
+            <line number="447" hits="4" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="18" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="448" hits="1" branch="False" />
+            <line number="449" hits="4" branch="False" />
+            <line number="450" hits="4" branch="False" />
+            <line number="437" hits="4" branch="False" />
+            <line number="438" hits="4" branch="False" />
+            <line number="439" hits="4" branch="False" />
+          </lines>
+        </class>
+        <class name="SaleGoods" filename="source\repos\Refactor\Refactor\Program.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="GetBonus" signature="(System.Int32,System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="458" hits="7" branch="False" />
+                <line number="459" hits="7" branch="False" />
+                <line number="460" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="GetDiscount" signature="(System.Int32,System.Double,Customer)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="462" hits="7" branch="False" />
+                <line number="463" hits="7" branch="False" />
+                <line number="464" hits="7" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="17" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="465" hits="3" branch="False" />
+                <line number="466" hits="3" branch="False" />
+                <line number="467" hits="3" branch="False" />
+                <line number="468" hits="3" branch="False" />
+                <line number="470" hits="3" branch="False" />
+                <line number="471" hits="3" branch="False" />
+                <line number="472" hits="7" branch="False" />
+                <line number="473" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="454" hits="7" branch="False" />
+                <line number="455" hits="7" branch="False" />
+                <line number="456" hits="7" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="458" hits="7" branch="False" />
+            <line number="459" hits="7" branch="False" />
+            <line number="460" hits="7" branch="False" />
+            <line number="462" hits="7" branch="False" />
+            <line number="463" hits="7" branch="False" />
+            <line number="464" hits="7" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="17" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="465" hits="3" branch="False" />
+            <line number="466" hits="3" branch="False" />
+            <line number="467" hits="3" branch="False" />
+            <line number="468" hits="3" branch="False" />
+            <line number="470" hits="3" branch="False" />
+            <line number="471" hits="3" branch="False" />
+            <line number="472" hits="7" branch="False" />
+            <line number="473" hits="7" branch="False" />
+            <line number="454" hits="7" branch="False" />
+            <line number="455" hits="7" branch="False" />
+            <line number="456" hits="7" branch="False" />
+          </lines>
+        </class>
+        <class name="Refactor.BillGenerator" filename="source\repos\Refactor\Refactor\BillGenerator.cs" line-rate="1" branch-rate="0.6666" complexity="6">
+          <methods>
+            <method name="Process" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="21" hits="11" branch="False" />
+                <line number="22" hits="11" branch="False" />
+                <line number="24" hits="11" branch="False" />
+                <line number="25" hits="11" branch="False" />
+                <line number="26" hits="11" branch="False" />
+                <line number="27" hits="11" branch="False" />
+                <line number="28" hits="33" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="254" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="29" hits="22" branch="False" />
+                <line number="30" hits="22" branch="False" />
+                <line number="31" hits="22" branch="False" />
+                <line number="34" hits="22" branch="False" />
+                <line number="37" hits="22" branch="False" />
+                <line number="41" hits="22" branch="False" />
+                <line number="44" hits="22" branch="False" />
+                <line number="45" hits="22" branch="False" />
+                <line number="46" hits="22" branch="False" />
+                <line number="48" hits="22" branch="False" />
+                <line number="49" hits="22" branch="False" />
+                <line number="50" hits="22" branch="False" />
+                <line number="51" hits="22" branch="False" />
+                <line number="52" hits="22" branch="False" />
+                <line number="53" hits="22" branch="False" />
+                <line number="54" hits="22" branch="False" />
+                <line number="55" hits="22" branch="False" />
+                <line number="56" hits="22" branch="False" />
+                <line number="57" hits="22" branch="False" />
+                <line number="59" hits="22" branch="False" />
+                <line number="61" hits="11" branch="False" />
+                <line number="62" hits="11" branch="False" />
+                <line number="63" hits="11" branch="False" />
+                <line number="65" hits="11" branch="False" />
+                <line number="66" hits="11" branch="False" />
+                <line number="67" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Bill,Refactor.IView)" line-rate="1" branch-rate="0.5" complexity="4">
+              <lines>
+                <line number="14" hits="11" branch="False" />
+                <line number="15" hits="11" branch="False" />
+                <line number="16" hits="11" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="11" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="17" hits="11" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="33" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="18" hits="11" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="21" hits="11" branch="False" />
+            <line number="22" hits="11" branch="False" />
+            <line number="24" hits="11" branch="False" />
+            <line number="25" hits="11" branch="False" />
+            <line number="26" hits="11" branch="False" />
+            <line number="27" hits="11" branch="False" />
+            <line number="28" hits="33" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="254" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="29" hits="22" branch="False" />
+            <line number="30" hits="22" branch="False" />
+            <line number="31" hits="22" branch="False" />
+            <line number="34" hits="22" branch="False" />
+            <line number="37" hits="22" branch="False" />
+            <line number="41" hits="22" branch="False" />
+            <line number="44" hits="22" branch="False" />
+            <line number="45" hits="22" branch="False" />
+            <line number="46" hits="22" branch="False" />
+            <line number="48" hits="22" branch="False" />
+            <line number="49" hits="22" branch="False" />
+            <line number="50" hits="22" branch="False" />
+            <line number="51" hits="22" branch="False" />
+            <line number="52" hits="22" branch="False" />
+            <line number="53" hits="22" branch="False" />
+            <line number="54" hits="22" branch="False" />
+            <line number="55" hits="22" branch="False" />
+            <line number="56" hits="22" branch="False" />
+            <line number="57" hits="22" branch="False" />
+            <line number="59" hits="22" branch="False" />
+            <line number="61" hits="11" branch="False" />
+            <line number="62" hits="11" branch="False" />
+            <line number="63" hits="11" branch="False" />
+            <line number="65" hits="11" branch="False" />
+            <line number="66" hits="11" branch="False" />
+            <line number="67" hits="11" branch="False" />
+            <line number="14" hits="11" branch="False" />
+            <line number="15" hits="11" branch="False" />
+            <line number="16" hits="11" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="11" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="17" hits="11" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="33" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="18" hits="11" branch="False" />
+          </lines>
+        </class>
+        <class name="Refactor.HtmlView" filename="source\repos\Refactor\Refactor\HtmlView.cs" line-rate="0" branch-rate="0" complexity="7">
+          <methods>
+            <method name="GetHeader" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="GetFooter" signature="(System.Double,System.Int32)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="GetItemString" signature="(Item,System.Double,System.Double,System.Int32)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="0" branch="False" />
+                <line number="34" hits="0" branch="False" />
+                <line number="35" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="SaveToFile" signature="(System.String,System.String)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="11" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="16" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="11" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="Refactor.ItemSummary" filename="source\repos\Refactor\Refactor\ItemSummary.cs" line-rate="1" branch-rate="1" complexity="6">
+          <methods>
+            <method name="get_Title" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Price" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Quantity" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Total" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Discount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Bonus" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="22" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="22" branch="False" />
+            <line number="12" hits="22" branch="False" />
+            <line number="13" hits="22" branch="False" />
+            <line number="14" hits="22" branch="False" />
+            <line number="15" hits="22" branch="False" />
+            <line number="16" hits="22" branch="False" />
+          </lines>
+        </class>
+        <class name="Refactor.BillSummary" filename="source\repos\Refactor\Refactor\ItemSummary.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_Items" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="33" branch="False" />
+              </lines>
+            </method>
+            <method name="get_TotalAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="get_TotalBonus" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="22" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="21" hits="33" branch="False" />
+            <line number="22" hits="22" branch="False" />
+            <line number="23" hits="22" branch="False" />
+          </lines>
+        </class>
+        <class name="Refactor.TxtView" filename="source\repos\Refactor\Refactor\TxtView.cs" line-rate="0.6" branch-rate="0" complexity="7">
+          <methods>
+            <method name="GetHeader" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="11" branch="False" />
+                <line number="24" hits="11" branch="False" />
+                <line number="25" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name="GetFooter" signature="(System.Double,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="11" branch="False" />
+                <line number="29" hits="11" branch="False" />
+                <line number="30" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name="GetItemString" signature="(Item,System.Double,System.Double,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="22" branch="False" />
+                <line number="34" hits="22" branch="False" />
+                <line number="35" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="SaveToFile" signature="(System.String,System.String)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="11" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="16" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="11" branch="False" />
+                <line number="18" hits="11" branch="False" />
+                <line number="20" hits="11" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="23" hits="11" branch="False" />
+            <line number="24" hits="11" branch="False" />
+            <line number="25" hits="11" branch="False" />
+            <line number="28" hits="11" branch="False" />
+            <line number="29" hits="11" branch="False" />
+            <line number="30" hits="11" branch="False" />
+            <line number="33" hits="22" branch="False" />
+            <line number="34" hits="22" branch="False" />
+            <line number="35" hits="22" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="11" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="11" branch="False" />
+            <line number="18" hits="11" branch="False" />
+            <line number="20" hits="11" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="TestsLab1" line-rate="0.9259000000000001" branch-rate="0.8332999999999999" complexity="8">
+      <classes>
+        <class name="AutoGeneratedProgram" filename=".nuget\packages\microsoft.net.test.sdk\17.3.2\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="TestsLab1.UnitTest1" filename="source\repos\Refactor\TestsLab1\UnitTest1.cs" line-rate="0.9615" branch-rate="0.8332999999999999" complexity="7">
+          <methods>
+            <method name="CalculateTotalAmountAndBonus" signature="(System.String,System.Type,System.Int32,System.Double,System.String,System.Type,System.Int32,System.Double,System.Double,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="71" hits="11" branch="False" />
+                <line number="73" hits="11" branch="False" />
+                <line number="74" hits="11" branch="False" />
+                <line number="76" hits="11" branch="False" />
+                <line number="77" hits="11" branch="False" />
+                <line number="79" hits="11" branch="False" />
+                <line number="81" hits="11" branch="False" />
+                <line number="83" hits="11" branch="False" />
+                <line number="85" hits="11" branch="False" />
+                <line number="86" hits="11" branch="False" />
+                <line number="92" hits="11" branch="False" />
+                <line number="95" hits="11" branch="False" />
+                <line number="96" hits="11" branch="False" />
+                <line number="99" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name="CreateGoods" signature="(System.String,System.Type)" line-rate="0.9166" branch-rate="0.8332999999999999" complexity="6">
+              <lines>
+                <line number="102" hits="22" branch="False" />
+                <line number="103" hits="22" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="19" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="104" hits="11" branch="False" />
+                <line number="105" hits="11" branch="False" />
+                <line number="107" hits="11" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="49" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="108" hits="4" branch="False" />
+                <line number="109" hits="4" branch="False" />
+                <line number="111" hits="7" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="79" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="112" hits="7" branch="False" />
+                <line number="113" hits="7" branch="False" />
+                <line number="116" hits="0" branch="False" />
+                <line number="117" hits="22" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="71" hits="11" branch="False" />
+            <line number="73" hits="11" branch="False" />
+            <line number="74" hits="11" branch="False" />
+            <line number="76" hits="11" branch="False" />
+            <line number="77" hits="11" branch="False" />
+            <line number="79" hits="11" branch="False" />
+            <line number="81" hits="11" branch="False" />
+            <line number="83" hits="11" branch="False" />
+            <line number="85" hits="11" branch="False" />
+            <line number="86" hits="11" branch="False" />
+            <line number="92" hits="11" branch="False" />
+            <line number="95" hits="11" branch="False" />
+            <line number="96" hits="11" branch="False" />
+            <line number="99" hits="11" branch="False" />
+            <line number="102" hits="22" branch="False" />
+            <line number="103" hits="22" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="19" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="104" hits="11" branch="False" />
+            <line number="105" hits="11" branch="False" />
+            <line number="107" hits="11" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="49" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="108" hits="4" branch="False" />
+            <line number="109" hits="4" branch="False" />
+            <line number="111" hits="7" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="79" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="112" hits="7" branch="False" />
+            <line number="113" hits="7" branch="False" />
+            <line number="116" hits="0" branch="False" />
+            <line number="117" hits="22" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

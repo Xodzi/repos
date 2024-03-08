@@ -1,0 +1,5 @@
+C:\Users\ivank\source\repos\Optimization2\MoldelLab1\obj\Debug\net7.0\MoldelLab1.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Optimization2\MoldelLab1\obj\Debug\net7.0\MoldelLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\Optimization2\MoldelLab1\obj\Debug\net7.0\MoldelLab1.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\Optimization2\MoldelLab1\obj\Debug\net7.0\MoldelLab1.AssemblyInfo.cs
+C:\Users\ivank\source\repos\Optimization2\MoldelLab1\obj\Debug\net7.0\MoldelLab1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vP7dG7SIEiqTL8dd2Xpu/OX0CDSh73d54j8yr7H/ZP5J4Bxwdzup/EjzoJvk56xN4vbE0V3LcKiPOBaWnKuiRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivank\\source\\repos\\Excel DNA\\Excel DNA\\Excel DNA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivank\\.nuget\\packages\\exceldna.addin\\1.7.0\\exceldna.addin.1.7.0.nupkg.sha512",
+    "C:\\Users\\ivank\\.nuget\\packages\\exceldna.integration\\1.7.0\\exceldna.integration.1.7.0.nupkg.sha512",
+    "C:\\Users\\ivank\\.nuget\\packages\\microsoft.web.webview2\\1.0.2210.55\\microsoft.web.webview2.1.0.2210.55.nupkg.sha512"
+  ],
+  "logs": []
+}

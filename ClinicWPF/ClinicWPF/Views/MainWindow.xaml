@@ -1,0 +1,40 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClinicWPF"
+        xmlns:materialDesignMahApps="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="ClinicWPF.MainWindow"
+        mc:Ignorable="d"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="{materialDesign:MaterialDesignFont}"
+
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <materialDesign:Card Padding="32" Margin="10,32,601,349">
+            <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Margin="-57,-57,-57,32">Записи</TextBlock>
+        </materialDesign:Card>
+        <DataGrid Style="{DynamicResource MaterialDesignDataGrid}" x:Name="DataGrid1" ItemsSource="{Binding data}" AutoGenerateColumns="False" Margin="0,90,0,0" SelectionChanged="DataGrid1_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="50"/>
+                <DataGridTextColumn Header="ФИО" Binding="{Binding FullName}" Width="100"/>
+                <DataGridTextColumn Header="Заметки" Binding="{Binding Note}" Width="100"/>
+                <DataGridTextColumn Header="Дата приёма"  Binding="{Binding Date}" Width="100"/>
+                <DataGridTextColumn Header="Анамнез" Binding="{Binding Anamnesis}" Width="150"/>
+                <DataGridTextColumn Header="Тесты" Binding="{Binding Tests}" Width="100"/>
+                <DataGridTemplateColumn Header="">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Подробно" Click="Button_Click_1" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

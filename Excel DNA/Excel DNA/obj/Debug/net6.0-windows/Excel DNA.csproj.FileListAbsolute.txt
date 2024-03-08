@@ -1,0 +1,21 @@
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\bin\Debug\net6.0-windows\Excel DNA.deps.json
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\bin\Debug\net6.0-windows\Excel DNA.runtimeconfig.json
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\bin\Debug\net6.0-windows\Excel DNA.dll
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\bin\Debug\net6.0-windows\Excel DNA.pdb
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\obj\Debug\net6.0-windows\Excel DNA.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\obj\Debug\net6.0-windows\Excel DNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\obj\Debug\net6.0-windows\Excel DNA.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\obj\Debug\net6.0-windows\Excel DNA.AssemblyInfo.cs
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\obj\Debug\net6.0-windows\Excel DNA.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\obj\Debug\net6.0-windows\Excel DNA.dll
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\obj\Debug\net6.0-windows\Excel DNA.pdb
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\obj\Debug\net6.0-windows\Excel DNA.genruntimeconfig.cache
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\obj\Debug\net6.0-windows\Excel DNA.csproj.CopyComplete
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\obj\Debug\net6.0-windows\Excel_DNA.MyForm.resources
+C:\Users\ivank\source\repos\Excel DNA\Excel DNA\obj\Debug\net6.0-windows\Excel DNA.csproj.GenerateResource.cache

@@ -1,0 +1,25 @@
+﻿<Window x:Class="Optimization4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Optimization4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="266" Width="820">
+    <Grid Height="434"  Width="800">
+        <DataGrid x:Name="DataGrid" Margin="10,10,239,200" AutoGenerateColumns="false">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Поставщик" Binding="{Binding Path=Post}" Width="90" />
+                <DataGridHyperlinkColumn Header="B1" Binding="{Binding Path=B1}" Width="80" />
+                <DataGridHyperlinkColumn Header="B2" Binding="{Binding Path=B2}" Width="80" />
+                <DataGridHyperlinkColumn Header="B3" Binding="{Binding Path=B3}" Width="80" />
+                <DataGridHyperlinkColumn Header="B4" Binding="{Binding Path=B4}" Width="80" />
+                <DataGridTextColumn Header="Запас" Binding="{Binding Path=Zapas}" Width="50" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="642,53,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="642,100,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="662,146,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.076,0.498"/>
+
+    </Grid>
+</Window>

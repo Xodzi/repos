@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\bin\Debug\net7.0\KonturIntern.exe
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\bin\Debug\net7.0\KonturIntern.deps.json
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\bin\Debug\net7.0\KonturIntern.runtimeconfig.json
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\bin\Debug\net7.0\KonturIntern.dll
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\bin\Debug\net7.0\KonturIntern.pdb
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\obj\Debug\net7.0\KonturIntern.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\obj\Debug\net7.0\KonturIntern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\obj\Debug\net7.0\KonturIntern.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\obj\Debug\net7.0\KonturIntern.AssemblyInfo.cs
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\obj\Debug\net7.0\KonturIntern.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\obj\Debug\net7.0\KonturIntern.dll
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\obj\Debug\net7.0\refint\KonturIntern.dll
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\obj\Debug\net7.0\KonturIntern.pdb
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\obj\Debug\net7.0\KonturIntern.genruntimeconfig.cache
+C:\Users\ivank\source\repos\KonturIntern\KonturIntern\obj\Debug\net7.0\ref\KonturIntern.dll

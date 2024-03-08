@@ -1,0 +1,44 @@
+﻿<Window x:Class="ClinicWPF.Views.PatientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        xmlns:local="clr-namespace:ClinicWPF.Views"
+        mc:Ignorable="d"
+        Title="PatientWindow" Height="373" Width="800">
+    <Grid>
+        <Button Command="{Binding ExitCommand}" Content="Выход" HorizontalAlignment="Left" Margin="640,0,0,299" Height="32" VerticalAlignment="Bottom" Background="#FFFF1C00"/>
+        <materialDesign:Card Padding="32" Margin="10,32,601,0" Height="53" VerticalAlignment="Top">
+            <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Text="{Binding Surname}" Margin="-57,-52,-57,0" Height="13" VerticalAlignment="Top"></TextBlock>
+        </materialDesign:Card>
+        <materialDesign:Card Padding="32" Margin="10,108,358,0" Height="234" VerticalAlignment="Top">
+            <Grid Margin="-56,-55,-59,-55">
+                <TextBox Style="{DynamicResource MaterialDesignTitleTextBlock}" >Запись на приём</TextBox>
+                <TextBox materialDesign:HintAssist.Hint="Опишите проблему" HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding Anamnesis}" VerticalAlignment="Bottom" Width="237" Margin="172,0,0,22" Height="184"/>
+                <TextBox materialDesign:HintAssist.Hint="Имя" HorizontalAlignment="Left" Text="{Binding Name}" TextWrapping="Wrap" Width="120" Margin="10,0,0,115" Height="23" VerticalAlignment="Bottom" IsEnabled="False" Visibility="Hidden"/>
+                <ComboBox x:Name="Spec_box" SelectedItem="{Binding SelectedSpec}" ItemsSource="{Binding Spec}" HorizontalAlignment="Left" Width="120" Margin="10,85,0,0" VerticalAlignment="Top" SelectionChanged="ComboBox_SelectionChanged"/>
+                <TextBox materialDesign:HintAssist.Hint="Фамилия" HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding Surname}" Width="120" TextChanged="TextBox_TextChanged" Margin="10,0,0,73" Height="23" VerticalAlignment="Bottom" Visibility="Hidden"/>
+                <Button Command="{Binding CreateAppoimentCommand}" Content="Записаться" HorizontalAlignment="Left" Margin="10,0,0,22" Height="32" VerticalAlignment="Bottom"/>
+                <DatePicker SelectedDate="{Binding date}" HorizontalAlignment="Left" Margin="10,0,0,152" VerticalAlignment="Bottom" Height="24"/>
+                <ComboBox x:Name="Doctors_Box" SelectedItem="{Binding SelectedDoc}" ItemsSource="{Binding Doctors}" HorizontalAlignment="Left" Width="120" Margin="10,120,0,0" VerticalAlignment="Top"/>
+            </Grid>
+
+        </materialDesign:Card>
+        <materialDesign:Card HorizontalAlignment="Left" Margin="489,108,0,0" VerticalAlignment="Top" Height="234" Width="301">
+            <Grid Margin="10,10,10,10">
+                <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Результаты анализов" VerticalAlignment="Top"/>
+                <TextBlock HorizontalAlignment="Center" Margin="0,29,0,0" TextWrapping="Wrap" Text="{Binding Tests}" VerticalAlignment="Top" Height="185" Width="261"/>
+            </Grid>
+        </materialDesign:Card>
+
+
+    </Grid>
+</Window>

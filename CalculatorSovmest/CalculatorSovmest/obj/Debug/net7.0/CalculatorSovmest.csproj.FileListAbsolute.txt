@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\bin\Debug\net7.0\CalculatorSovmest.exe
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\bin\Debug\net7.0\CalculatorSovmest.deps.json
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\bin\Debug\net7.0\CalculatorSovmest.runtimeconfig.json
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\bin\Debug\net7.0\CalculatorSovmest.dll
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\bin\Debug\net7.0\CalculatorSovmest.pdb
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\obj\Debug\net7.0\CalculatorSovmest.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\obj\Debug\net7.0\CalculatorSovmest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\obj\Debug\net7.0\CalculatorSovmest.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\obj\Debug\net7.0\CalculatorSovmest.AssemblyInfo.cs
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\obj\Debug\net7.0\CalculatorSovmest.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\obj\Debug\net7.0\CalculatorSovmest.dll
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\obj\Debug\net7.0\refint\CalculatorSovmest.dll
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\obj\Debug\net7.0\CalculatorSovmest.pdb
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\obj\Debug\net7.0\CalculatorSovmest.genruntimeconfig.cache
+C:\Users\ivank\source\repos\CalculatorSovmest\CalculatorSovmest\obj\Debug\net7.0\ref\CalculatorSovmest.dll

@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\Refactor6\Refactor6\bin\Debug\net7.0\Refactor6.exe
+C:\Users\ivank\source\repos\Refactor6\Refactor6\bin\Debug\net7.0\Refactor6.deps.json
+C:\Users\ivank\source\repos\Refactor6\Refactor6\bin\Debug\net7.0\Refactor6.runtimeconfig.json
+C:\Users\ivank\source\repos\Refactor6\Refactor6\bin\Debug\net7.0\Refactor6.dll
+C:\Users\ivank\source\repos\Refactor6\Refactor6\bin\Debug\net7.0\Refactor6.pdb
+C:\Users\ivank\source\repos\Refactor6\Refactor6\obj\Debug\net7.0\Refactor6.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Refactor6\Refactor6\obj\Debug\net7.0\Refactor6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\Refactor6\Refactor6\obj\Debug\net7.0\Refactor6.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\Refactor6\Refactor6\obj\Debug\net7.0\Refactor6.AssemblyInfo.cs
+C:\Users\ivank\source\repos\Refactor6\Refactor6\obj\Debug\net7.0\Refactor6.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\Refactor6\Refactor6\obj\Debug\net7.0\Refactor6.dll
+C:\Users\ivank\source\repos\Refactor6\Refactor6\obj\Debug\net7.0\refint\Refactor6.dll
+C:\Users\ivank\source\repos\Refactor6\Refactor6\obj\Debug\net7.0\Refactor6.pdb
+C:\Users\ivank\source\repos\Refactor6\Refactor6\obj\Debug\net7.0\Refactor6.genruntimeconfig.cache
+C:\Users\ivank\source\repos\Refactor6\Refactor6\obj\Debug\net7.0\ref\Refactor6.dll

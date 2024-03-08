@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\bin\Debug\net6.0\Code_Wars_Approved_Calculator.exe
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\bin\Debug\net6.0\Code_Wars_Approved_Calculator.deps.json
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\bin\Debug\net6.0\Code_Wars_Approved_Calculator.runtimeconfig.json
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\bin\Debug\net6.0\Code_Wars_Approved_Calculator.dll
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\bin\Debug\net6.0\Code_Wars_Approved_Calculator.pdb
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\obj\Debug\net6.0\Code_Wars_Approved_Calculator.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\obj\Debug\net6.0\Code_Wars_Approved_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\obj\Debug\net6.0\Code_Wars_Approved_Calculator.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\obj\Debug\net6.0\Code_Wars_Approved_Calculator.AssemblyInfo.cs
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\obj\Debug\net6.0\Code_Wars_Approved_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\obj\Debug\net6.0\Code_Wars_Approved_Calculator.dll
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\obj\Debug\net6.0\refint\Code_Wars_Approved_Calculator.dll
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\obj\Debug\net6.0\Code_Wars_Approved_Calculator.pdb
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\obj\Debug\net6.0\Code_Wars_Approved_Calculator.genruntimeconfig.cache
+C:\Users\ivank\source\repos\Code_Wars_Approved_Calculator\Code_Wars_Approved_Calculator\obj\Debug\net6.0\ref\Code_Wars_Approved_Calculator.dll

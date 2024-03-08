@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\bin\Debug\net7.0\CodeWars_binary_tree.exe
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\bin\Debug\net7.0\CodeWars_binary_tree.deps.json
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\bin\Debug\net7.0\CodeWars_binary_tree.runtimeconfig.json
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\bin\Debug\net7.0\CodeWars_binary_tree.dll
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\bin\Debug\net7.0\CodeWars_binary_tree.pdb
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\obj\Debug\net7.0\CodeWars_binary_tree.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\obj\Debug\net7.0\CodeWars_binary_tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\obj\Debug\net7.0\CodeWars_binary_tree.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\obj\Debug\net7.0\CodeWars_binary_tree.AssemblyInfo.cs
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\obj\Debug\net7.0\CodeWars_binary_tree.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\obj\Debug\net7.0\CodeWars_binary_tree.dll
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\obj\Debug\net7.0\refint\CodeWars_binary_tree.dll
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\obj\Debug\net7.0\CodeWars_binary_tree.pdb
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\obj\Debug\net7.0\CodeWars_binary_tree.genruntimeconfig.cache
+C:\Users\ivank\source\repos\CodeWars_binary_tree\CodeWars_binary_tree\obj\Debug\net7.0\ref\CodeWars_binary_tree.dll

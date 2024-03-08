@@ -1,0 +1,16 @@
+C:\Users\ivank\source\repos\Tink2\Tink2\bin\Debug\net5.0\Tink2.exe
+C:\Users\ivank\source\repos\Tink2\Tink2\bin\Debug\net5.0\Tink2.deps.json
+C:\Users\ivank\source\repos\Tink2\Tink2\bin\Debug\net5.0\Tink2.runtimeconfig.json
+C:\Users\ivank\source\repos\Tink2\Tink2\bin\Debug\net5.0\Tink2.runtimeconfig.dev.json
+C:\Users\ivank\source\repos\Tink2\Tink2\bin\Debug\net5.0\Tink2.dll
+C:\Users\ivank\source\repos\Tink2\Tink2\bin\Debug\net5.0\Tink2.pdb
+C:\Users\ivank\source\repos\Tink2\Tink2\obj\Debug\net5.0\Tink2.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Tink2\Tink2\obj\Debug\net5.0\Tink2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\Tink2\Tink2\obj\Debug\net5.0\Tink2.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\Tink2\Tink2\obj\Debug\net5.0\Tink2.AssemblyInfo.cs
+C:\Users\ivank\source\repos\Tink2\Tink2\obj\Debug\net5.0\Tink2.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\Tink2\Tink2\obj\Debug\net5.0\Tink2.dll
+C:\Users\ivank\source\repos\Tink2\Tink2\obj\Debug\net5.0\refint\Tink2.dll
+C:\Users\ivank\source\repos\Tink2\Tink2\obj\Debug\net5.0\Tink2.pdb
+C:\Users\ivank\source\repos\Tink2\Tink2\obj\Debug\net5.0\Tink2.genruntimeconfig.cache
+C:\Users\ivank\source\repos\Tink2\Tink2\obj\Debug\net5.0\ref\Tink2.dll

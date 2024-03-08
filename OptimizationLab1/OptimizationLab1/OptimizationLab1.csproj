@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Accord.Math" Version="3.8.0" />
+    <PackageReference Include="Microsoft.Solver.Foundation" Version="3.1.0" />
+    <PackageReference Include="Plotly.NET" Version="4.2.0" />
+    <PackageReference Include="Plotly.NET.Interactive" Version="4.2.1" />
+    <PackageReference Include="ScottPlot.WPF" Version="5.0.21" />
+  </ItemGroup>
+
+</Project>

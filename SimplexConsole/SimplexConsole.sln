@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplexConsole", "SimplexConsole\SimplexConsole.csproj", "{EAFE8E77-65C8-400E-8E36-1D831725FD8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFE8E77-65C8-400E-8E36-1D831725FD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFE8E77-65C8-400E-8E36-1D831725FD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFE8E77-65C8-400E-8E36-1D831725FD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFE8E77-65C8-400E-8E36-1D831725FD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0969552E-815E-4797-9F8C-437740DDA694}
+	EndGlobalSection
+EndGlobal

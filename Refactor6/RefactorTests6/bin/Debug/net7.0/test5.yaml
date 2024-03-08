@@ -1,0 +1,10 @@
+CustomerName: David
+CustomerBonus: 30
+GoodsTotalCount: 2
+# ID: NAME TYPE(REG/SAL/SPO)
+1: Pizza REG
+2: Pasta SAL
+ItemsTotalCount: 2
+# ID: GID PRICE QTY
+1: 1 15 5
+2: 2 12 3

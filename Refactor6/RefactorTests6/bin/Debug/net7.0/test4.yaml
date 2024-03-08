@@ -1,0 +1,14 @@
+CustomerName: Emma
+CustomerBonus: 15
+GoodsTotalCount: 4
+# ID: NAME TYPE(REG/SAL/SPO)
+1: T-shirt REG
+2: Jeans REG
+3: Jacket SAL
+4: Sneakers SPO
+ItemsTotalCount: 4
+# ID: GID PRICE QTY
+1: 1 25 3
+2: 2 50 1
+3: 3 120 2
+4: 4 80 1

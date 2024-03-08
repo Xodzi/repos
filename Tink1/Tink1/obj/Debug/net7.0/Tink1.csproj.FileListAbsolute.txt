@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\Tink1\Tink1\bin\Debug\net7.0\Tink1.exe
+C:\Users\ivank\source\repos\Tink1\Tink1\bin\Debug\net7.0\Tink1.deps.json
+C:\Users\ivank\source\repos\Tink1\Tink1\bin\Debug\net7.0\Tink1.runtimeconfig.json
+C:\Users\ivank\source\repos\Tink1\Tink1\bin\Debug\net7.0\Tink1.dll
+C:\Users\ivank\source\repos\Tink1\Tink1\bin\Debug\net7.0\Tink1.pdb
+C:\Users\ivank\source\repos\Tink1\Tink1\obj\Debug\net7.0\Tink1.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Tink1\Tink1\obj\Debug\net7.0\Tink1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\Tink1\Tink1\obj\Debug\net7.0\Tink1.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\Tink1\Tink1\obj\Debug\net7.0\Tink1.AssemblyInfo.cs
+C:\Users\ivank\source\repos\Tink1\Tink1\obj\Debug\net7.0\Tink1.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\Tink1\Tink1\obj\Debug\net7.0\Tink1.dll
+C:\Users\ivank\source\repos\Tink1\Tink1\obj\Debug\net7.0\refint\Tink1.dll
+C:\Users\ivank\source\repos\Tink1\Tink1\obj\Debug\net7.0\Tink1.pdb
+C:\Users\ivank\source\repos\Tink1\Tink1\obj\Debug\net7.0\Tink1.genruntimeconfig.cache
+C:\Users\ivank\source\repos\Tink1\Tink1\obj\Debug\net7.0\ref\Tink1.dll

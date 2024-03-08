@@ -1,0 +1,10 @@
+CustomerName: John
+CustomerBonus: 50
+GoodsTotalCount: 2
+# ID: NAME TYPE(REG/SAL/SPO)
+1: Chocolate REG
+2: Coffee SAL
+ItemsTotalCount: 2
+# ID: GID PRICE QTY
+1: 1 30 2
+2: 2 25 3
